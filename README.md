@@ -27,3 +27,5 @@ Short description: E-commerce PWA • Live: https://project-b.example
 ## 📫 Contact
 - Email: thanhan.lan@gmail.com
 - LinkedIn: https://www.linkedin.com/in/le-thanh-an-2859ba1b1/
+
+[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/thanhan868192/thanhan868192/raw/main/ThanhAn_CV.pdf)
