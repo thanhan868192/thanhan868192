@@ -32,4 +32,4 @@ Short description: Develop a Next.js application that highlights the key feature
 - LinkedIn: https://www.linkedin.com/in/le-thanh-an-2859ba1b1/
 
 📄 **CV**  
-👉 [My CV (PDF)](https://github.com/thanhan868192/thanhan868192/blob/main/An-Le-Thanh-Fullstack-Developer.pdf)
+👉 [My CV (PDF)](https://github.com/lethanhan-dev/lethanhan-dev/blob/main/An-Le-Thanh-Fullstack-Developer.pdf)
