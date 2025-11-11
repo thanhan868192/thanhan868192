@@ -31,7 +31,7 @@ Short description: E-commerce PWA • Live: https://project-b.example
 
 <details>
   <summary>More — CV</summary>
-  - CV: [![Download CV](https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/thanhan868192/thanhan868192/blob/main/An-Le-Thanh-Fullstack-Developer.pdf)
+[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/thanhan868192/thanhan868192/blob/main/An-Le-Thanh-Fullstack-Developer.pdf)
 
 </details>
 
