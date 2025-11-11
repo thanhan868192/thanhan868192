@@ -1,8 +1,6 @@
-# 👋 Hi, I'm YOUR NAME (YOUR_USERNAME)
+# 👋 Hi, I'm An Le Thanh
 
-🎯 **One-liner:** Frontend Engineer — Angular (70%) • NestJS (30%) • Building accessible web apps.
-
-![banner](assets/banner.png)
+🎯 **One-liner:** Frontend Engineer — Angular (70%) • BE (30%) • Building accessible web apps.
 
 ---
 
